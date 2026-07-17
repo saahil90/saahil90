@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/your-handle" target="#">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:saacidgamer7@gmail.com"target="[google](https://mail.google.com/mail/u/0/#sent?compose=new)">
+  <a href="mailto:saacidgamer7@gmail.com"target="(https://mail.google.com/mail/u/0/#sent?compose=new)">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://your-portfolio.com" target="#">
